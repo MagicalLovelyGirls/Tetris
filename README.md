@@ -12,6 +12,7 @@
 #### 以Github Platform Share、Revise、Peer-Review、Test、Publish	
 ### 3. 准备工作
 #### 1）下载并学习Qt框架的基本使用流程和方法
+分享一个B站的Qt教学视频<https://www.bilibili.com/video/BV1g4411H78N?p=4>
 #### 2）了解Github/Git工具的基本操作和原理，下载Github  for  Desktop客户端，会使用基本的Markdown文档，了解Commit/Revise/Review的方法
 #### 3）本地开发环境（如IDE）自备
 
