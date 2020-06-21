@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/testSet">
+        <file>testSet/easy.txt</file>
+        <file>testSet/normal.txt</file>
+        <file>testSet/challenge.txt</file>
+    </qresource>
+</RCC>
