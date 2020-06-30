@@ -57,5 +57,7 @@
 ### 2.函数及接口
 			
 请在Paradox给出的头文件中参阅
+### 3.最终运行的视频
 
+链接: https://pan.baidu.com/s/1XqOTxYX-q_y6jI1A-J8UjA 提取码: j6xy
 
